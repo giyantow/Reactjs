@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import {Routes,Route} from "react-router-dom";
 
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome } from '@fortawesome/free-solid-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faHome } from '@fortawesome/free-solid-svg-icons';
 
 import Navbar from './components/Navbar';
 import ProductList from './components/ProductList';
